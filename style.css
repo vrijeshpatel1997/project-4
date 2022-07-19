@@ -1,0 +1,75 @@
+
+body {
+
+    background-image: url(assets/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.navbar{
+
+
+    
+  
+    background-color: black;
+
+padding-top: 50px;
+    
+
+}
+
+.list .list-item{
+
+    color: white;
+    display: inline-block;
+    padding-left: 200px;
+    font-size: 25px;  
+   
+}
+
+
+.logo{
+position: absolute;
+top: 30px;
+}
+
+.button-small{
+
+
+    position: absolute;
+    background-color: rgb(226, 43, 211);
+    font-size: 25px;
+    color: white;
+    top: 30px;
+    left: 85%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 5px;
+
+}
+
+.hero {
+
+text-align: center;
+
+margin-top: 15%;
+color: white;
+
+font-size: 50px;
+}
+
+.button-large{
+
+    background-color: rgb(226, 43, 211);
+    font-size: 25px;
+    color: white;
+    border-radius: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 55px;
+    padding-right: 55px;
+    border: none;
+}
